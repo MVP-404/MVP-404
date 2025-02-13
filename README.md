@@ -1,12 +1,12 @@
 ![Header](https://github.com/MVP-404/MVP-404/blob/main/accets/header.png)
-
-
-## I am a beginner freelancer and software engineer
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MVP-404/MVP-404/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MVP-404/MVP-404/blob/output/github-snake.svg" />
   <img alt="GitHub Snake animation" src="https://github.com/MVP-404/MVP-404/blob/output/github-snake.svg" />
 </picture>
+
+
+## I am a beginner freelancer and software engineer
 
 
 
